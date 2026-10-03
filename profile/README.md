@@ -36,6 +36,6 @@
 | [moochy-docs](https://github.com/moochy-dev/moochy-docs) | Guides, protocol specification and design |
 | [moochy-skills](https://github.com/moochy-dev/moochy-skills) | Skills that teach coding agents to donate and to use donated tokens |
 
-Install: `brew install moochy-dev/tap/moochy` · Guides: [moochy.dev/docs](https://moochy.dev/docs) · Agents: `npx skills add moochy-dev/moochy-skills`
+Install: `cargo install moochy --locked` · Guides: [moochy.dev/docs](https://moochy.dev/docs) · Agents: `npx skills add moochy-dev/moochy-skills`
 
 <p align="center"><sub>Open-source client (Apache-2.0) · 100% free</sub></p>
